@@ -1,0 +1,28 @@
+Task 1 – Digital Literacy Awareness Infographic
+CSE0001 | Megh S. Joshi 
+
+Tool Used: Canva (canva.com)
+
+What the Design Shows:
+This infographic is a one-page visual resource designed to help first-year students
+understand digital literacy and why it matters. It is divided into four sections:
+
+  1. What is Digital Literacy?
+     Explains what digital literacy means — the ability to use digital tools,
+     communicate online, and navigate the internet safely and responsibly.
+
+  2. Stay Safe Online
+     Covers key safe internet practices including using strong passwords, enabling
+     two-factor authentication, avoiding suspicious links, and logging out of
+     shared devices.
+
+  3. Build Your Digital Identity
+     Highlights the importance of a professional online presence on platforms like
+     GitHub and LinkedIn, and the idea that what you post online is a permanent
+     digital footprint.
+
+  4. Communicate Professionally
+     Outlines the basics of email etiquette — clear subject lines, formal greetings,
+     concise body text, and proper sign-offs.
+
+File in this folder: Digital-Literacy-Infographic.png (exported from Canva)
