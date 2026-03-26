@@ -1,11 +1,6 @@
 Task 3 – Coding & Collaboration Platforms: Reflection Notes
 CSE0001 | Megh S. Joshi 
 
-Screenshots in this folder:
-  - hackerrank-challenge.png
-  - google-form.png
-  - google-sheet.png   
-
 ---
 
 Part A – Coding Practice (HackerRank)
