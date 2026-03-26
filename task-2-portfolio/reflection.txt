@@ -1,0 +1,22 @@
+Task 2 – Student Digital Portfolio: Reflection Notes
+CSE0001 | Megh S. Joshi 
+
+Platforms Set Up:
+  1. GitHub (github.com)
+  2. LinkedIn (linkedin.com)
+  3. Kaggle (kaggle.com)
+
+Screenshots in this folder:
+  - github-profile.png
+  - linkedin-profile.png
+  - kaggle-profile.png    
+
+---
+
+One thing I found surprising while setting up these profiles:
+
+On Github, I noticed how coders across the world collaborate and contribute to each others projects to create an ever-improving plethora of software, all open-source and accessible to everyone.
+
+On LinkedIn, I noticed how easy it is to set up a profile but how much detail is needed to get your profile to be visible to others for connection and collaboration opportunities.
+
+On Kaggle, I realised how easy it was for someone in todays world to get into data science and learn from practice in a community of fellow enthusiasts.
