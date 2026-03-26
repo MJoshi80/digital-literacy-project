@@ -1,0 +1,39 @@
+CSE0001 – Digital Literacy | Task 4: Professional Email Drafts
+Student: Megh S. Joshi | Reg No.: 25BAI10178
+
+
+EMAIL 2 – Internship Inquiry to Company
+-----------------------------------------
+
+To: hr@companyname.com
+Subject: Application for Summer Internship Opportunity – B.Tech CSE Student
+
+Dear [Hiring Manager's Name / "Hiring Team"],
+
+I hope you are doing well.
+
+My name is Megh, and I am currently a first-year B.Tech student majoring in 
+Computer Science and Engineering w/ a specialisation in AI/ML at VIT Bhopal University.
+I am writing to express my strong interest in a summer internship opportunity at [Company Name].
+
+I have been following [Company Name]'s work in the field of Artificial Intelligence
+and am deeply impressed by your commitment to innovation. I am eager to apply my 
+foundational knowledge of programming, data structures, and machine learning in a 
+professional environment while contributing meaningfully to your team.
+
+Although I am early in my academic journey, I am a quick learner and am highly 
+motivated to gain hands-on industry experience during the summer break (May–July 
+2026). I would be grateful for the opportunity to discuss how I might contribute to 
+your organization.
+
+I have attached my resume for your reference. Please feel free to reach me at 
+megh.25bai10178@vitbhopal.ac.in at your convenience.
+
+Thank you for considering my application. I look forward to hearing from you.
+
+Sincerely,
+Megh S. Joshi
+B.Tech – Computer Science and Engineering (w/ AI/ML) (First Year)
+VIT Bhopal University.
+
+-----------------------------------------
