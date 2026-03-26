@@ -1,0 +1,46 @@
+Task 3 – Coding & Collaboration Platforms: Reflection Notes
+CSE0001 | Megh S. Joshi 
+
+Screenshots in this folder:
+  - hackerrank-challenge.png
+  - google-form.png
+  - google-sheet.png   
+
+---
+
+Part A – Coding Practice (HackerRank)
+
+Platform used: HackerRank (hackerrank.com)
+
+I created an account on HackerRank and completed the "Solve Me First" challenge
+under the Algorithms – Warm Up section. HackerRank is widely used by companies during 
+technical recruitment to assess candidates' problem-solving abilities. Getting familiar 
+with the platform early in my degree means I will be comfortable using it when I 
+begin preparing for internship applications in my second or third year. The platform also
+offers structured learning paths and skill certificates that I plan to pursue over time.
+
+---
+
+Part B – Google Workspace Collaboration (Google Forms)
+
+Platform used: Google Forms + Google Sheets (forms.google.com)
+
+I created a five-question Digital Literacy Awareness Quiz using Google Forms.
+The form is linked to a Google Sheet that automatically records all responses in a
+structured table as soon as someone submits the form. This response sheet can be
+used to analyse results, track participation, and identify gaps in digital
+awareness among batchmates.
+
+---
+
+How These Tools Will Help Me Academically:
+
+Both platforms demonstrated how digital tools can serve real academic and
+professional purposes rather than just being exercises. The Google Form I built
+could genuinely be distributed as part of a digital literacy awareness campaign —
+it is a functional, shareable resource, not just a practice task. Similarly,
+HackerRank is a platform I will return to repeatedly as my programming skills
+develop, using it to practice, certify, and eventually demonstrate my abilities to
+employers.
+
+---
